@@ -1,6 +1,6 @@
-### xyz studio countries bright map
+### xyz studio countries map
 
-View the [xyz studio countries bright map](https://sensescape.github.io/xyz-studio-countries-bright/).
+View the [xyz studio countries map](https://sensescape.github.io/xyz-studio-countries/).
 
 [https://explore.xyz.here.com](https://explore.xyz.here.com)
 
